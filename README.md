@@ -104,7 +104,8 @@ Com isso, um lojista com um único pedido atrasado passa de 100% para cerca de 1
 
 O k = 6 reúne a maior silhueta da série, um ganho de variância explicada que ainda compensa e um menor grupo com tamanho suficiente para interpretação.
 
-![Cotovelo e silhueta](imagens/cotovelo_silhueta.png)
+![Cotovelo e silhueta](<img width="867" height="701" alt="image" src="https://github.com/user-attachments/assets/5f433b9a-b450-4fc2-bbbe-8b6214fa4d40" />
+)
 
 ## 4.7 Estabilidade e escolha do modelo
 
