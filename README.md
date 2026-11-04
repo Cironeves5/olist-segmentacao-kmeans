@@ -158,7 +158,7 @@ O modelo final foi reajustado com 10 sementes diferentes, e o ARI em relação �
 
 # 8. Como Reproduzir
 
-1. Abra `Clusterizacao_Olist_Lojistas.ipynb` no Google Colab.
+1. Abra colab.research.google.com/drive/1IEHCb4lHV5H0krcOo5k3yKKYt6V4CYNN?usp=sharing no Google Colab.
 2. Execute as células na ordem. A primeira baixa a base diretamente do Kaggle via `kagglehub`.
 
 # 9. Licença
